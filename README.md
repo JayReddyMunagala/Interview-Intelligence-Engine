@@ -54,9 +54,3 @@ An AI-powered web platform designed to help job seekers improve their interview 
 * **NLP**: OpenAI Whisper + GPT-3.5
 * **Visualization**: Recharts
 * **Exporting**: jsPDF, html2canvas
-
----
-
-### Environment Variables
-
-Create a `.env` file:
